@@ -1,6 +1,6 @@
 let form = document.querySelector("form");
-let player1 = document.querySelector("#player-1");
-let player2 = document.querySelector("#player-2");
+let player1 = document.querySelector("#player1");
+let player2 = document.querySelector("#player2");
 let startBtn = document.querySelector("button");
 
 let count = 0;
